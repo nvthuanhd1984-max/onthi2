@@ -5,3 +5,4 @@ langchain-google-genai
 chromadb
 pypdf
 pillow
+pysqlite3-binary
