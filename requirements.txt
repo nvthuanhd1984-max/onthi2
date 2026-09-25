@@ -6,3 +6,5 @@ chromadb
 pypdf
 pillow
 pysqlite3-binary
+pandas
+openpyxl
